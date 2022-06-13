@@ -27,7 +27,7 @@ Note: The styling for all pages are provided for you. However, feel free to play
           <div className="centered">
             <img 
               className="profile_image"
-              // Image goes here
+              // 
               alt="Profile Pic"
               ></img>
           </div>
